@@ -3,7 +3,7 @@ name = "SigmaOS-probe-delete-me"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "probe-delete-me component"
+description = "GitHub repository has no published branch; component scope remains unclassified."
 upstream = []
 
 [contract]
