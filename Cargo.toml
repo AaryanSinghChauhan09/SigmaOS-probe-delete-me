@@ -1,0 +1,15 @@
+[package]
+name = "SigmaOS-probe-delete-me"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS probe_delete_me component"
+
+[lib]
+name = "probe_delete_me"
+path = "src/lib.rs"
+
+[dependencies]
+thiserror = "1"
+
+[dev-dependencies]
